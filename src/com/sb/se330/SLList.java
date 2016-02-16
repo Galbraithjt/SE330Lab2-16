@@ -1,13 +1,7 @@
 package com.sb.se330;
 
-import com.sb.se330.SLLNode;
-
 /*
- * Created by Joshua Galbraith on 2/16/2016.
- */
-
-/*********************** SLList.java ***************************
- * generic singly linked list class with head only
+ * Created by soaler on 2/16/16.
  */
 public class SLList
 {

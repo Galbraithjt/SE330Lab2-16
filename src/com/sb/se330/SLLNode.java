@@ -1,10 +1,8 @@
 package com.sb.se330;
 
 /*
- * Created by Joshua Galbraith on 2/16/2016.
+ * Created by soaler on 2/16/16.
  */
-
-//*********************** SLLNode.java *******************************
 public class SLLNode
 {
     public Object info;
@@ -22,4 +20,3 @@ public class SLLNode
         info = el; next = ptr;
     }
 }
-

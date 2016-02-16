@@ -1,10 +1,12 @@
 package com.sb.se330;
 
-import com.sb.se330.SLList;
-
-public class Main {
-
-    public static void main(String[] args) {
-	// write your code here
+/*
+ * Created by soaler on 2/16/16.
+ */
+public class Main
+{
+    public static void main(String[] args)
+    {
+        // write your code here
     }
 }
